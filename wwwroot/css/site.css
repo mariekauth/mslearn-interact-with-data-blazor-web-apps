@@ -563,6 +563,7 @@ a.sign-in {
 
 input[type=range] {
     -webkit-appearance: none;
+    appearance: none;
     margin: 7.1px 0;
     height: 21px;
 }
